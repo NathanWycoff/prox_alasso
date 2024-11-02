@@ -39,6 +39,7 @@ Reproducing Numerical Results from the article.
 
 ---
 Figures 3-6 may be reproduced by running the script "parrun.sh".
+This involves running about 500 simulations in parallel over 10 processes, which will take several days.
 Make sure you :
 1) Have installed gnu-parallel (maybe via "sudo apt install parallel").
 2) Have given "parrun.sh" execution permission (maybe via "chmod +x parrun.sh").
@@ -59,6 +60,6 @@ Make sure you :
 An analogue to Figure 8 but with synthetic data may be created by running the script "hcr_parrun.sh".
 Make sure you :
 1) Have installed gnu-parallel (maybe via "sudo apt install parallel").
-2) Have given "parrun.sh" execution permission (maybe via "chmod +x parrun.sh").
+2) Have given "hcr_parrun.sh" execution permission (maybe via "chmod +x parrun.sh").
 3) Are executing the script from the root directory of this respository.
 4) Have your virtual environment activated.
