@@ -55,6 +55,7 @@ An analogue to Figure 7 but with synthetic data may be created by running:
 bash> python python/mosaic_nn.py
 Make sure you :
 1) Are executing the script from the root directory of this respository.
+2) Have your virtual environment activated.
 
 ---
 An analogue to Figure 8 but with synthetic data may be created by running the script "hcr_parrun.sh".
