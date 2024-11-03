@@ -60,7 +60,6 @@ Make sure you :
 ---
 An analogue to Figure 8 but with synthetic data may be created by running the script "hcr_parrun.sh".
 Make sure you :
-1) Have installed gnu-parallel (maybe via "sudo apt install parallel").
-2) Have given "hcr_parrun.sh" execution permission (maybe via "chmod +x hcr_parrun.sh").
-3) Are executing the script from the root directory of this respository.
-4) Have your virtual environment activated.
+1) Have given "hcr_parrun.sh" execution permission (maybe via "chmod +x hcr_parrun.sh").
+2) Are executing the script from the root directory of this respository.
+3) Have your virtual environment activated.
