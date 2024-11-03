@@ -47,7 +47,7 @@ Make sure you :
 4) Have your virtual environment activated.
 
 ---
-Unfortunately, the two case studies of section 6.4/6.5 involve datasets which we are not able to release publically. 
+Unfortunately, the two case studies of section 6.4/6.5 involve datasets which we are not able to release publicly. 
 Therefore, our scripts create synthetic versions of these datasets to illustrate our methodology.
 
 ---
